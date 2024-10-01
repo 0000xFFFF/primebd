@@ -1,0 +1,24 @@
+1 24 "manifest.xml"
+
+1 VERSIONINFO
+FILEVERSION    10,0,18362,1
+PRODUCTVERSION 10,0,18362,1
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "040904B0"
+    BEGIN
+      VALUE "CompanyName", "Microsoft Corporation"
+      VALUE "FileDescription", "Windows Media Player Sharing Interface"
+      VALUE "FileVersion", "12.0.18362.1 (WinBuild.160101.0800)"
+      VALUE "LegalCopyright", "\xA9 Microsoft Corporation. All rights reserved."
+      VALUE "OriginalFilename", "WMPMediaSharing.EXE"
+      VALUE "ProductName", "Microsoft\xAE Windows\xAE Operating System"
+      VALUE "ProductVersion", "12.0.18362.1"
+    END
+  END
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x0409, 0x04B0  
+  END
+END
